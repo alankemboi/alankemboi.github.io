@@ -211,7 +211,7 @@ const randomCard = function () {
     let randomNumber = Math.floor(Math.random() * testCards.length);
     cardnumber_mask.unmaskedValue = testCards[randomNumber];
 }
-window.addEventListener('onload', function () {
+window.addEventListener('click', function () {
     randomCard();
 });
 
