@@ -122,6 +122,7 @@ p {
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
     font-family: 'Raleway';
+    width: 100%;
 }
 
 .payment-title {
