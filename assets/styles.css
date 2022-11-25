@@ -118,7 +118,7 @@ p {
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
-    min-height: 100vh;
+    /* min-height: 100vh; */
     -ms-flex-wrap: wrap;
         flex-wrap: wrap;
     font-family: 'Raleway';
