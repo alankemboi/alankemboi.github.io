@@ -463,7 +463,7 @@ input {
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@900&family=Sumana:wght@700&display=swap");
-body {
+/* body {
   align-items: center;
   background-color: #f2f2f2;
   display: flex;
@@ -472,14 +472,14 @@ body {
   justify-content: center;
   height: 100vh;
   margin: 0;
-}
+} */
 .person {
   align-items: center;
   display: flex;
   flex-direction: column;
   width: 280px;
 }
-.container {
+.container-ims {
   border-radius: 50%;
   height: 312px;
   -webkit-tap-highlight-color: transparent;
